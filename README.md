@@ -16,7 +16,7 @@
 ## 🔧 Tech Stack and Learnings
 💻 **Languages**: Python, R, C++, JavaScript  
 📊 **ML & AI**: TensorFlow, PyTorch, Scikit-learn, OpenCV, NLTK  
-📡 **Embedded Systems**: 8051 Microcontroller, Arduino, Raspberry Pi  
+📡 **Embedded Systems**:  Arduino, Raspberry Pi  
 📈 **Data Science**: Pandas, NumPy, Matplotlib, Seaborn, XGBoost, ARIMA  
 ☁️ **Cloud & Tools**: Google Cloud, AWS, Docker, Kubernetes, GitHub Actions  
 🔗 **Databases**: MySQL, PostgreSQL, Firebase, MongoDB  
