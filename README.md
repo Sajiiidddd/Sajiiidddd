@@ -1,7 +1,7 @@
 # 🚀 Sajid Tamboli | AI/ML | Data Engg | Gen AI | Cloud  
 **B.Tech Artificial Intelligence & Data Science** |  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/sajid-tamboli-b505022a8)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)]((https://www.linkedin.com/in/sajid-tamboli-b505022a8/))  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/Sajiiidddd)  
 
 ---
