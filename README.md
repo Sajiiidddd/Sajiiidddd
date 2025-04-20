@@ -25,21 +25,24 @@
 
 ## 📌 Featured Projects  
 
+### 🔹 **Picasso: Your Inner Echoes**  
+- **Emotion-to-Art Generator** using multimodal emotion detection (text, voice, face).  
+- **SBERT-based emotion classifier** integrated with **Stable Diffusion** for high-quality art generation.  
+- Personalized style learning and real-time feedback for dynamic art synthesis.  
+- Integrating **NRC-VAD Lexicon** for deeper emotional understanding and **Gemini 1.5 Pro** for artwork descriptions.
+
 ### 🔹 **Lip Reading for Deaf & Mute Communication**  
 - Deep learning-based **lip reading and sign language recognition** system.  
 - Uses **Corpus dataset of 1000** and **American Sign Language dataset**.  
 - Achieved accuracy of over **90%** on a **50-50 split**  
 
-
 ### 🔹 **Stock Market Prediction (ARIMA & XGBoost)**  
 - Predicting stock prices using **time series forecasting** & machine learning.  
 - Analyzing stocks like **TCS, RELIANCE, HDFCBANK, INFY, ITC**.  
 
-
 ### 🔹 **Centralized Hospital Management System (Smart India Hackathon)**  
 - **Medical data analytics** using ML for hospital efficiency.  
 - **Data pipeline development** & **ML model deployment**.  
-
 
 ---
 
