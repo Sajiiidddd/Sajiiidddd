@@ -44,7 +44,7 @@
 - Engineered a pipeline processing **16 telemetry features** (Throttle, Brake, DRS, Tyre Life) using 10-lap sliding windows.  
 - Developed a **Live Race Simulation** script to predict rank changes lap-by-lap in real-time.  
 
-### 🎨 **Picasso: Your Inner Echoes** _**Role:** AI Researcher & Developer_  
+### 🎨 **[Picasso: Your Inner Echoes](https://github.com/Sajiiidddd/emotion-to-art)** _**Role:** AI Researcher & Developer_  
 - **Emotion-to-Art Generator** using multimodal emotion detection (text, voice, face).  
 - Integrated **SBERT-based classifier** with **Stable Diffusion** and **Gemini 1.5 Pro** for dynamic art synthesis.  
 - Utilized **NRC-VAD Lexicon** for deep emotional mapping.  
@@ -53,23 +53,18 @@
 - Developed a CNN/LSTM-based system for **lip reading and sign language recognition**.  
 - Trained on **Corpus-1000** and **ASL datasets**, achieving **>90% accuracy** on validation splits.  
 
-### 📈 **Stock Market Prediction (ARIMA & XGBoost)** - Time-series forecasting for major stocks (TCS, RELIANCE, HDFCBANK).  
-- comparative analysis using statistical (ARIMA) vs. ML (XGBoost) approaches.  
+### 📈 **[Stock Market Prediction (ARIMA & XGBoost)](https://github.com/Sajiiidddd/-Stock-Analysis-using-ARIMA-and-XGBOOST)** - Time-series forecasting for major stocks using statistical (ARIMA) vs. ML (XGBoost) approaches.  
+- Comparative analysis of volatility and trend prediction accuracy across varying market conditions.  
 
 ### 🏥 **Centralized Hospital Management System** (Smart India Hackathon)  
 - End-to-end **medical data analytics pipeline** for improving hospital operational efficiency.  
 
 ---
 
-## 🏆 Github Trophies
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Sajiiidddd&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## ⚡ GitHub Stats & Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sajiiidddd&show_icons=true&theme=radical&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sajiiidddd&layout=compact&theme=radical&hide=html,css" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sajiiidddd&show_icons=true&theme=radical&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sajiiidddd&layout=compact&theme=radical&hide=html,css" height="150" alt="languages graph" />
 </div>
 
 <div align="center">
